@@ -1,0 +1,144 @@
+{
+  "workouts": [
+    {
+      "id": "20241201_143022",
+      "start_time": "2024-12-01T14:30:22",
+      "end_time": "2024-12-01T15:15:30",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 8,
+          "score": 85.5,
+          "phase_data": [
+            {
+              "timestamp": 0,
+              "phase": "SETUP",
+              "score": 85,
+              "angles": {
+                "shoulder_hip_angle": 175.2,
+                "left_elbow_angle": 85.3,
+                "right_elbow_angle": 86.1,
+                "left_knee_angle": 85.7,
+                "right_knee_angle": 86.2
+              }
+            }
+          ],
+          "timestamp": "2024-12-01T14:32:15",
+          "notes": "热身组，重量较轻"
+        },
+        {
+          "set_number": 2,
+          "reps": 6,
+          "score": 88.2,
+          "phase_data": [],
+          "timestamp": "2024-12-01T14:38:20",
+          "notes": "正式组，增加重量"
+        },
+        {
+          "set_number": 3,
+          "reps": 5,
+          "score": 82.1,
+          "phase_data": [],
+          "timestamp": "2024-12-01T14:45:10",
+          "notes": "最后一组，有些疲劳"
+        }
+      ],
+      "total_reps": 19,
+      "total_sets": 3,
+      "average_score": 85.3,
+      "best_score": 88.2,
+      "duration": 2708,
+      "notes": "今天感觉不错，姿势保持得比较好"
+    },
+    {
+      "id": "20241203_160045",
+      "start_time": "2024-12-03T16:00:45",
+      "end_time": "2024-12-03T16:45:20",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 10,
+          "score": 87.8,
+          "phase_data": [],
+          "timestamp": "2024-12-03T16:05:30",
+          "notes": "轻重量热身"
+        },
+        {
+          "set_number": 2,
+          "reps": 8,
+          "score": 90.2,
+          "phase_data": [],
+          "timestamp": "2024-12-03T16:12:15",
+          "notes": "中等重量，姿势标准"
+        },
+        {
+          "set_number": 3,
+          "reps": 6,
+          "score": 85.6,
+          "phase_data": [],
+          "timestamp": "2024-12-03T16:20:45",
+          "notes": "较重重量，保持控制"
+        },
+        {
+          "set_number": 4,
+          "reps": 4,
+          "score": 78.9,
+          "phase_data": [],
+          "timestamp": "2024-12-03T16:28:30",
+          "notes": "最大重量，有些吃力"
+        }
+      ],
+      "total_reps": 28,
+      "total_sets": 4,
+      "average_score": 85.6,
+      "best_score": 90.2,
+      "duration": 2675,
+      "notes": "今天状态很好，尝试了更重的重量"
+    },
+    {
+      "id": "20241205_143022",
+      "start_time": "2024-12-05T14:30:22",
+      "end_time": "2024-12-05T15:10:15",
+      "sets": [
+        {
+          "set_number": 1,
+          "reps": 12,
+          "score": 89.1,
+          "phase_data": [],
+          "timestamp": "2024-12-05T14:35:10",
+          "notes": "轻重量，专注姿势"
+        },
+        {
+          "set_number": 2,
+          "reps": 10,
+          "score": 91.3,
+          "phase_data": [],
+          "timestamp": "2024-12-05T14:42:25",
+          "notes": "姿势越来越标准"
+        },
+        {
+          "set_number": 3,
+          "reps": 8,
+          "score": 88.7,
+          "phase_data": [],
+          "timestamp": "2024-12-05T14:50:40",
+          "notes": "中等重量，保持质量"
+        }
+      ],
+      "total_reps": 30,
+      "total_sets": 3,
+      "average_score": 89.7,
+      "best_score": 91.3,
+      "duration": 2393,
+      "notes": "今天重点练习姿势标准性，感觉进步很大"
+    }
+  ],
+  "statistics": {
+    "total_workouts": 3,
+    "total_reps": 77,
+    "total_sets": 10,
+    "best_score": 91.3,
+    "average_score": 86.9,
+    "total_duration": 7776
+  }
+} 
